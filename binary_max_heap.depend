@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1589104740 source:d:\programs language\any labs\binary max heap\main.cpp
+	<iostream>
+	"binarymaxheap.h"
+
+1589104712 d:\programs language\any labs\binary max heap\binarymaxheap.h
+	<iostream>
+	<cmath>
+
+1589111246 source:c:\users\путник\desktop\lab4\main.cpp
+	<iostream>
+	"binarymaxheap.h"
+
+1589113186 c:\users\путник\desktop\lab4\binarymaxheap.h
+	<iostream>
+	<cmath>
+
+1590485992 source:c:\users\Василий\desktop\lab4-master\main.cpp
+	<iostream>
+	"binarymaxheap.h"
+
+1590486068 c:\users\Василий\desktop\lab4-master\binarymaxheap.h
+	<iostream>
+	<cmath>
+
